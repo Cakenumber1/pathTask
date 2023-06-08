@@ -1,0 +1,9 @@
+{
+  "name": "sbertask",
+  "version": "1.0.0",
+  "description": "",
+  "main": "./src/index.js",
+  "dependencies": {
+    "jest": "29.5.0"
+  }
+}
